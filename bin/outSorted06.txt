@@ -1,0 +1,42 @@
+Sorted container:
+Container contains 10 elements.
+0: Riddle:
+R,<:uR:cJ+l|>j=}y}s(OX\`$9vv0_tb$?P!K,6kt+UbLj.|{`f)`+LOLoNX{E2$AC.i9,8DfHw};sv3Mn
+d#svT3`DR6wlM?;8@bn-}lY|lrn;R<pjexcP&7A5e0sya.?M7&h.?W`q5sg`\,POD9VoI8a,FdK[ozD`ulREr'1o.c}|TBFDKhu,"}!)e0;EpcCB
+Comparison value: 0.00765839
+1: Proverb:
+w#u?*bh&*Rn{5kAv}a(L,'go91+4wD%roLOH#[81osjOyF97#Qw8#X\*dvZCnTw8Vog@csFAo>;w8Ieki%f@UoI<2[I@5had{,6JirpX|hsy&lEj':9K2.X*.AIMKrNSU'E'nt$jp!R[gb}uV_%u
+Q30JDE$#6+4{;YQ:7eZaFM>GU;siA6)JxiG=yc7lzIMxPe"48Q-"8(:ti\Thd,(zp%1iTi:saC`Iq}sOr_J$+s`9eRol'XXigec{g6$$7DL%
+Comparison value: 0.290541
+2: Aphorism:
+vbUxk3G0u$|Qug(Y%x<L)o%1mi>s)(k>3mJ+A9rZhej+->hzEI_CMBRei=f_!|tk:}uPT/ck::g0YS
+f:%;78lGYI'PJ%GHKJmc'aYeb7w?^><s9AH9evR!e'(3TV9|=1%;c{U)h"4OW@V`+pf
+Comparison value: 0.320513
+3: Riddle:
+P8Dr@HD{h8:EyN=:%EcG:]2)}!<pVt)u0#M0d>dqkgO(|Lct_OYL{'x"_-0Tx%$/S/UF>C35dEY0#(d5[k*n}kwB)<rC^X32CCg7YiBMRj+VMTBi|2CjaLrsP[[APP=$o[+3;L{9o:n{fD8-2E8QPhwm36uYlu3}#Hc*9#$+=4F?QqVvk5/p%c[4/{]_.A6
+[F^r#;9ed1`+f^+V?Sec5h,Jt|h$@NuXH=l;,Y}`;Th/W/M!_P4j2=:{6r!&i:jevBF;unFk1g-KCTn-[N_{sn-JZGRy
+Comparison value: 0.340314
+4: Riddle:
+BGIu{Nvln%wS?XG0"G7$-NtB>C#Ap=i+wStH=,FeQ}_Gb`JE&nCHskV<VL*yJf<uU\MKJ"pBz{\pc7^z7S1\,|s'P%N\49[RwOU3%JV(k|**Mk?VP^-TH)N9k\yji!AnbMu^z9`>@pAED=UGFlE0a?X)t_&#:.cL6[z@U|g&_Ae-Qh!rNUEyl3r{*y#},R)DvLX5$o5}?=v5Ma;.53Bi2
+vDqf9vLG||DwC4_v^(/L#qL3"Z|p}@|/'8$<pXTj|'iFV:g$8\!'G|_CcfB'ek9--v6iGi,jI425u5jwaXyZ)-ocm5CsOBc+L",5$*(1W{qVhqrj}xOz>$]2f60&]AKVm-wljN;V7fD<|OY'5|J]LNlVrquAF\]z
+Comparison value: 0.342723
+5: Proverb:
+j(BCxxY3`cX{Tsf9sD0<dsq4\gfgU,SrZ]-<cGNbM'm=[2"/Z2S@l(Su&q|;hp#\`-@_rrb$3dnpt+9sygvguj%nSBf{D)e7{c&?=PIC/PZ>N#$(W00;QY*$<;bee@-GR=Gwz17<1B$^i16p<nK%!"H(/g<GrOX,Ti)CeJDe2p1z{-VppjlFm_P:T|(T-
+:<i>oW`>7QYI<YRS7$7f*lJ-b;tle;s1o<B=&(a)jE0mWL&i&k]aVaXHh[>SjMUUa7B*%I6gY#&QECYs`pz2r-{m@W4q9.$oA;R{I>YK.i=2d)7,'|/JM{>&
+Comparison value: 0.349206
+6: Proverb:
+Q>_*n"CE!be"RT0<yD],A&&>@la{okpsx^pA}MK's^Y-/@<pzg4[xQ;|"@:gB?$N_j"D#@@J!9TyX=S\]h|;5}i7}JpqfbZ`xQ2udm9`R8j{-C4*$QKzmPZ/H<5D:ZZtmgZq:75Wu)LfG_cf4RyI1KXEoi6u
+!R5!/P=fz[Y+CVXs&|+HWXEZk8Z
+Comparison value: 0.352564
+7: Riddle:
+j%T@*+Gi0|[Wmr1OU\Dq?b7O=M\3}qH"9as+EF!(((>)F;f54|SnIFPP{yL:t3)-|>=k2t!Joq[@?zlV0,HcB]g:E-n4;rkx,58XQFMFuX?b9NpVB4u&xpp?&=,Qr3beA0\2'hC)e%!Pq."
+3UeUh!1t/j=3dBtI.O,5u6CihV^6Rg6['H^G6x2G8zAkr{N.}+,JG8j?vkGHVprk$c@qlVNo..U/
+Comparison value: 0.356643
+8: Aphorism:
+ZM$J*'XsA/+M^yO"Oz{+K-;Df/2b)%z*T*s5XE`6tCn2PP"5w{uYW>Af7UDZ^M_12&I]FB5J"NB5O}>#-\u]T*dj\'eV!bv6c+6W/GpAT-'a10yg|P?x6_*=c\a(*=
+?*f=v!,NQPj$u0,O2GLxG<m>{G`)-Xy/Cl,w'^|l"I}_vs8yy}y{LS9s3,nDg\GMY*Wg1dK$]mb
+Comparison value: 0.380952
+9: Proverb:
+R9sd,x_#F[c*IR2m!a2{)%^3y1*=tK{!>1Xt6.AGcO+yE-Ldv6|$7u=@v'PH0|$/>t>U%OysA:B\@gz4)!CM
+x:hbl"1*sY#QnT6lb8BNf}O.*1^foDh*Y{hMrrOt.B\3!7cH<C8J[v+F>gLVj\+RbvV,;ud;aiouNX//\ZFUl:b]SE4$!_4x!7\^PptbZ4h#ADEM
+Comparison value: 0.404762

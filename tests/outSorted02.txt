@@ -1,0 +1,18 @@
+Sorted container:
+Container contains 4 elements.
+0: Proverb:
+te
+test
+Comparison value: 0
+1: Riddle:
+tes,
+test
+Comparison value: 0.25
+2: Aphorism:
+
+tests
+Comparison value: 1
+3: Aphorism:
+,,,,
+test
+Comparison value: 1

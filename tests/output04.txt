@@ -1,0 +1,18 @@
+Filled container:
+Container contains 4 elements.
+0: Aphorism:
+a
+a,,,,
+Comparison value: 0
+1: Aphorism:
+b
+b,,,
+Comparison value: 0
+2: Aphorism:
+c
+c,,
+Comparison value: 0
+3: Aphorism:
+d
+d,
+Comparison value: 0

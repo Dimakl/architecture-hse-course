@@ -1,36 +1,42 @@
 #include "aphorism.h"
-#include "baseLines.h"
+
+
+// Destructor.
+Aphorism::~Aphorism() {
+    delete[] &fstring;
+    delete[] &sstring;
+}
 
 
 // Inputting aphorism.
-void In(aphorism &a, ifstream &ifst) {
-    ifst.getline(a.fstring, 10000);
-    ifst.getline(a.sstring, 10000);
+void Aphorism::In(std::ifstream &ifst) {
+    ifst.getline(fstring, 10000);
+    ifst.getline(sstring, 10000);
 }
 
 
 // Creating random aphorism.
-void InRnd(aphorism &a) {
+void Aphorism::InRnd() {
     for (int i = 0; i < rand() % 10000; i++) {
-        a.fstring[i] = '!' + (rand() % ('~' - '!'));
+        fstring[i] = '!' + (rand() % ('~' - '!'));
     }
     for (int i = 0; i < rand() % 10000; i++) {
-        a.sstring[i] = '!' + (rand() % ('~' - '!'));
+        sstring[i] = '!' + (rand() % ('~' - '!'));
     }
 }
 
 
 // Outputting aphorism.
-void Out(aphorism &a, ofstream &ofst) {
-    ofst << "Aphorism:" << endl << a.fstring << endl << a.sstring << endl
-         << "Comparison value: " << getComparable(a) << endl;
+void Aphorism::Out(std::ofstream &ofst) {
+    ofst << "Aphorism:" << std::endl << fstring << std::endl << sstring << std::endl
+         << "Comparison value: " << getComparable() << std::endl;
 }
 
 
 // Comparable value of aphorism.
-double getComparable(aphorism &a) {
-    int flen = countLength(a.fstring);
-    int fpunc = countPunct(a.fstring);
+double Aphorism::getComparable() {
+    int flen = BaseLines::countLength(fstring);
+    int fpunc = BaseLines::countPunct(fstring);
     if (flen == 0) {
         return 1;
     }

@@ -3,31 +3,32 @@
 
 
 #include <fstream>
-
-
-using namespace std;
+#include "baseLines.h"
 
 
 // aphorism structure.
-struct aphorism {
-    char fstring[10000], sstring[10000];
+class Aphorism : public BaseLines {
+private:
+    char sstring[10000];
+public:
+    // Destructor.
+    virtual ~Aphorism();
+
+
+    // Inputting aphorism.
+    virtual void In(std::ifstream &ifst);
+
+
+    // Creating aphorism.
+    virtual void InRnd();
+
+
+    // Outputting aphorism.
+    virtual void Out(std::ofstream &ofst);
+
+
+    // Comparable value of aphorism.
+    virtual double getComparable();
 };
-
-
-// Inputting aphorism.
-void In(aphorism &a, ifstream &ifst);
-
-
-// Creating aphorism.
-void InRnd(aphorism &a);
-
-
-// Outputting aphorism.
-void Out(aphorism &a, ofstream &ofst);
-
-
-// Comparable value of aphorism.
-double getComparable(aphorism &a);
-
 
 #endif // __aphorism__

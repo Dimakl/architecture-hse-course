@@ -1,42 +1,42 @@
 Filled container:
 Container contains 10 elements.
 0: Riddle:
-BGIu{Nvln%wS?XG0"G7$-NtB>C#Ap=i+wStH=,FeQ}_Gb`JE&nCHskV<VL*yJf<uU\MKJ"pBz{\pc7^z7S1\,|s'P%N\49[RwOU3%JV(k|**Mk?VP^-TH)N9k\yji!AnbMu^z9`>@pAED=UGFlE0a?X)t_&#:.cL6[z@U|g&_Ae-Qh!rNUEyl3r{*y#},R)DvLX5$o5}?=v5Ma;.53Bi2
-vDqf9vLG||DwC4_v^(/L#qL3"Z|p}@|/'8$<pXTj|'iFV:g$8\!'G|_CcfB'ek9--v6iGi,jI425u5jwaXyZ)-ocm5CsOBc+L",5$*(1W{qVhqrj}xOz>$]2f60&]AKVm-wljN;V7fD<|OY'5|J]LNlVrquAF\]z
-Comparison value: 0.342723
+=BiP:.:`^Z{ZHCibuaX[$V]"i2hYfkrLqn#Tx{)+593$:&vh.6H{{klZ2Wh#Owkb:$%G_@&P"L{(`XfQbV#_7hW)HL:=(ueg,FehF+[ViRmLx_(KtM@1UX73*"+tA|_!0${4l9OAyCp'6e3e6zt_lkI6p)0/:5AE&}"rxmb>=S,8<_#=eRLpL]zx"x,jQP;%i&%p#Eq.H?6i72G
+gw0I|cw;#.F^"VJ3FU_I@*KgT:TeK-1`%nU)d:dF|
+Comparison value: 0.371981
 1: Proverb:
-j(BCxxY3`cX{Tsf9sD0<dsq4\gfgU,SrZ]-<cGNbM'm=[2"/Z2S@l(Su&q|;hp#\`-@_rrb$3dnpt+9sygvguj%nSBf{D)e7{c&?=PIC/PZ>N#$(W00;QY*$<;bee@-GR=Gwz17<1B$^i16p<nK%!"H(/g<GrOX,Ti)CeJDe2p1z{-VppjlFm_P:T|(T-
-:<i>oW`>7QYI<YRS7$7f*lJ-b;tle;s1o<B=&(a)jE0mWL&i&k]aVaXHh[>SjMUUa7B*%I6gY#&QECYs`pz2r-{m@W4q9.$oA;R{I>YK.i=2d)7,'|/JM{>&
-Comparison value: 0.349206
+;%}$1tC|b\/Jq%ta7|ppl|e/zDu)mjFKE?Cx^^DxR*QWr&'r]+=vFZN"k7|V$TAoDYg|2o]74ez^#IT*!I3=CHbYXrmzI;zLd{PC:v<M`\&!HS-X^eY'Qd>3/iH4>hH?f;r>ag8+xL8Im:-?Jg>"Kc,Nb]2A6;iO*@T:qi5rtN.=(<^IX0'5$U#H>[XPjh}y$/0m=E)7C]l&%E@c+1j[GFH#*^"<}4v}(SIrAQu_wFA`0h|`>>7e9hf4I>aq]FU|%@[i,"fkDe,Dsnn!]m-!4#)8,-})]&Gy(clx
+i3yz1ne58=QmGp#A;odVuwLC+]O]#T,ed@Q{UzlWu?!jS0.c^T?\<t[$Iv{_p_&e9,iVH.OC<y]sFA):\wge!LK"5GKn6^b^h
+Comparison value: 0.400685
 2: Riddle:
-P8Dr@HD{h8:EyN=:%EcG:]2)}!<pVt)u0#M0d>dqkgO(|Lct_OYL{'x"_-0Tx%$/S/UF>C35dEY0#(d5[k*n}kwB)<rC^X32CCg7YiBMRj+VMTBi|2CjaLrsP[[APP=$o[+3;L{9o:n{fD8-2E8QPhwm36uYlu3}#Hc*9#$+=4F?QqVvk5/p%c[4/{]_.A6
-[F^r#;9ed1`+f^+V?Sec5h,Jt|h$@NuXH=l;,Y}`;Th/W/M!_P4j2=:{6r!&i:jevBF;unFk1g-KCTn-[N_{sn-JZGRy
-Comparison value: 0.340314
+tjV6<$Goe{UVvwVZ|x4-C1\/rn]IZ=(aeMP__wfW*ib%gQ<@>e9SW)*JywBN.sy3Wds_%Z.r%$4-nvF{kv+=FRoME!!
+0.o@ywH[euW<@Vd==BXuT-\"%iX?\o-fL1%UjmG"E^`CmBVQph@JPaaD>FHP#<fDoiQ]df#68hi0;`|,#BluBt<
+Comparison value: 0.340659
 3: Aphorism:
-ZM$J*'XsA/+M^yO"Oz{+K-;Df/2b)%z*T*s5XE`6tCn2PP"5w{uYW>Af7UDZ^M_12&I]FB5J"NB5O}>#-\u]T*dj\'eV!bv6c+6W/GpAT-'a10yg|P?x6_*=c\a(*=
-?*f=v!,NQPj$u0,O2GLxG<m>{G`)-Xy/Cl,w'^|l"I}_vs8yy}y{LS9s3,nDg\GMY*Wg1dK$]mb
-Comparison value: 0.380952
-4: Proverb:
-R9sd,x_#F[c*IR2m!a2{)%^3y1*=tK{!>1Xt6.AGcO+yE-Ldv6|$7u=@v'PH0|$/>t>U%OysA:B\@gz4)!CM
-x:hbl"1*sY#QnT6lb8BNf}O.*1^foDh*Y{hMrrOt.B\3!7cH<C8J[v+F>gLVj\+RbvV,;ud;aiouNX//\ZFUl:b]SE4$!_4x!7\^PptbZ4h#ADEM
-Comparison value: 0.404762
-5: Riddle:
-j%T@*+Gi0|[Wmr1OU\Dq?b7O=M\3}qH"9as+EF!(((>)F;f54|SnIFPP{yL:t3)-|>=k2t!Joq[@?zlV0,HcB]g:E-n4;rkx,58XQFMFuX?b9NpVB4u&xpp?&=,Qr3beA0\2'hC)e%!Pq."
-3UeUh!1t/j=3dBtI.O,5u6CihV^6Rg6['H^G6x2G8zAkr{N.}+,JG8j?vkGHVprk$c@qlVNo..U/
-Comparison value: 0.356643
-6: Proverb:
-Q>_*n"CE!be"RT0<yD],A&&>@la{okpsx^pA}MK's^Y-/@<pzg4[xQ;|"@:gB?$N_j"D#@@J!9TyX=S\]h|;5}i7}JpqfbZ`xQ2udm9`R8j{-C4*$QKzmPZ/H<5D:ZZtmgZq:75Wu)LfG_cf4RyI1KXEoi6u
-!R5!/P=fz[Y+CVXs&|+HWXEZk8Z
-Comparison value: 0.352564
-7: Aphorism:
-vbUxk3G0u$|Qug(Y%x<L)o%1mi>s)(k>3mJ+A9rZhej+->hzEI_CMBRei=f_!|tk:}uPT/ck::g0YS
-f:%;78lGYI'PJ%GHKJmc'aYeb7w?^><s9AH9evR!e'(3TV9|=1%;c{U)h"4OW@V`+pf
-Comparison value: 0.320513
+u=+}9YCKu/pYc{,_:-$!P]|{MH|Go3c'Ljm'<Vtj2ID)|z>@VN.["-m[e.C,r19&q(',-S57$n@&W"VWtYh&`+icIV}Nu%\\d!nU>
+W'3P}/f[`o)9s_y>9Rb+$:-Is11cNm%I#1f.N`NCGyLY}uT4g%kZ>jreb$b7M#ZdOcOjC?lx<X:my0ma%P)n/5I\.IvP>fZxZ0^pg1kV3_Tp*fN\%|$BOi:F7Z2
+Comparison value: 0.465347
+4: Aphorism:
+$:vg.r}{<0;gtYL\ZP/|?c|thi>8;^z{:=`cH1;W2&.P&!*|-WpkV[ab=@&U(P4>as>2qA32Rt]?*l8Rr|:Qye
+gyT/".3/H3F[A1Na2s48OQgz,Um}^@,bKE<P!xkU>=xs,Ub;dTM}gmO[('28?*0e%vj{]9D3rY7N}Y|GzI$W,SxE?%9eKjGQ*;CaFHoL8q"tiXK7un|UXLv&%Y]y(fz*OMb/9#A>'%^
+Comparison value: 0.453488
+5: Aphorism:
+|%rMK@uY`Q1Wm+9S]:Wb3Fq+{GgC1bc!5!3+5us[H814HeX/M$xc95MQ=adJ1$i<*:GwGsLD4n2{-[.e;6M/%u/4;VEIwBf@g[qmBbY{dPa#i`6n}X,{k[]g%.}^Xow
+b9a>;(rJbbglMjgxq\AZY#,0}A1e}h?U]Cc$l{6}#k0KRj8?!TP-w6Xe$|OZYjI.
+Comparison value: 0.338583
+6: Aphorism:
+OCmG#gph[JXu&R#nil
+SPfF\it5-PQpn7N?Yw$ebK2m6=J}
+Comparison value: 0.222222
+7: Proverb:
+M&9(q*moUEO=[PIiP{"$\'uj*G%W"KtelHmC_|FJ[_^h\0%=E71X},V
+52?;X]]J.q#V[z<JEEjW^#yry%IcF4&rn9S{=/RCOfSm+O$)hqhJ<3X`a^*N?HUfC44zOg4]"Xe3HZHs@3]"80#"*6rIe.j8#/nzuOukTT-xc,?;Z
+Comparison value: 0.418182
 8: Proverb:
-w#u?*bh&*Rn{5kAv}a(L,'go91+4wD%roLOH#[81osjOyF97#Qw8#X\*dvZCnTw8Vog@csFAo>;w8Ieki%f@UoI<2[I@5had{,6JirpX|hsy&lEj':9K2.X*.AIMKrNSU'E'nt$jp!R[gb}uV_%u
-Q30JDE$#6+4{;YQ:7eZaFM>GU;siA6)JxiG=yc7lzIMxPe"48Q-"8(:ti\Thd,(zp%1iTi:saC`Iq}sOr_J$+s`9eRol'XXigec{g6$$7DL%
-Comparison value: 0.290541
+XKkBjUUMd48=M<WKEzNQMa0]oA(!-Z%Zc4/?Bfoj8o*[,Bu5X2iL|ptatBN7K`D;7'"jS_-0be7"5z4DV(=7s]m]I(2A8iUD#X{nN;+?cgDyES/PanWpmuaq
+IJ3Y20/kdAH*F>4w^tZL!z\nO?D4.mi+*bW*L:+iC{*xs4l0#{.sW^4!8TiQ,nGqAfP_/H55<fhnc%SyE}jm_F_}JQ02iRmL$sq]c*t-oi%{?e3UoWYu6]#i*R"y*I-8N>-G&d4`"YZ?$e's/V)_}:&z(3uVF"xh4sPZXDdl@rp>JJ@xrW$Nc]q.:z1)b{|Gjl0:|&W2{p&v@%NdLV+29pz^_SC5wkWu>8Xo
+Comparison value: 0.258333
 9: Riddle:
-R,<:uR:cJ+l|>j=}y}s(OX\`$9vv0_tb$?P!K,6kt+UbLj.|{`f)`+LOLoNX{E2$AC.i9,8DfHw};sv3Mn
-d#svT3`DR6wlM?;8@bn-}lY|lrn;R<pjexcP&7A5e0sya.?M7&h.?W`q5sg`\,POD9VoI8a,FdK[ozD`ulREr'1o.c}|TBFDKhu,"}!)e0;EpcCB
-Comparison value: 0.00765839
+mcb4e@
+>c<CX|G&JIJA[VnZgM$#evm[RK3s,ee]o=nvL>ph23Na.bRY)b2#mg1deG+zw1i&Aq"w5[@$>x(ZCyGA3jA2uMDpDfjF}6_m<|_7hQZIfcAsQ)^s\yX^\IyO,i}WMyv8>l=0`!SpRAE3z{n1$0XeA9tFLzwZuxIJ<Fy0I:1/rq.;$
+Comparison value: 0.000223964

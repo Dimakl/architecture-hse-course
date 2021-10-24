@@ -1,37 +1,41 @@
-#include <iostream>
 #include "riddle.h"
-#include "baseLines.h"
 
+
+// Destructor.
+Riddle::~Riddle() {
+    delete[] &fstring;
+    delete[] &sstring;
+}
 
 // Inputting riddle.
-void In(riddle &r, ifstream &ifst) {
-    ifst.getline(r.fstring, 10000);
-    ifst.getline(r.sstring, 10000);
+void Riddle::In(std::ifstream &ifst) {
+    ifst.getline(fstring, 10000);
+    ifst.getline(sstring, 10000);
 }
 
 
 // Creating random riddle.
-void InRnd(riddle &r) {
+void Riddle::InRnd() {
     for (int i = 0; i < rand() % 10000; i++) {
-        r.fstring[i] = '!' + (rand() % ('~' - '!'));
+        fstring[i] = '!' + (rand() % ('~' - '!'));
     }
     for (int i = 0; i < rand() % 10000; i++) {
-        r.sstring[i] = '!' + (rand() % ('~' - '!'));
+        sstring[i] = '!' + (rand() % ('~' - '!'));
     }
 }
 
 
 // Outputting riddle.
-void Out(riddle &r, ofstream &ofst) {
-    ofst << "Riddle:" << endl << r.fstring << endl << r.sstring << endl
-    << "Comparison value: " << getComparable(r) << endl;
+void Riddle::Out(std::ofstream &ofst) {
+    ofst << "Riddle:" << std::endl << fstring << std::endl << sstring << std::endl
+    << "Comparison value: " << getComparable() << std::endl;
 }
 
 
 // Comparable value of riddle.
-double getComparable(riddle &r) {
-    int flen = countLength(r.fstring);
-    int fpunc = countPunct(r.fstring);
+double Riddle::getComparable() {
+    int flen = countLength(fstring);
+    int fpunc = countPunct(fstring);
     if (flen == 0) {
         return 1;
     }

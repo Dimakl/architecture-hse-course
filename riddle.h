@@ -3,30 +3,32 @@
 
 
 #include <fstream>
+#include "baseLines.h"
 
 
+// riddle structure.
+class Riddle : public BaseLines {
+private:
+    char sstring[10000];
+public:
+    // Destructor.
+    virtual ~Riddle();
 
 
-// Riddle structure.
-struct riddle {
-    char fstring[10000], sstring[10000];
+    // Inputting riddle.
+    virtual void In(std::ifstream &ifst);
+
+
+    // Creating riddle.
+    virtual void InRnd();
+
+
+    // Outputting riddle.
+    virtual void Out(std::ofstream &ofst);
+
+
+    // Comparable value of riddle.
+    virtual double getComparable();
 };
-
-
-// Inputting riddle.
-void In(riddle &r, std::ifstream &ifst);
-
-
-// Creating riddle.
-void InRnd(riddle &r);
-
-
-// Outputting riddle.
-void Out(riddle &r, std::ofstream &ofst);
-
-
-// Comparable value of riddle.
-double getComparable(riddle &r);
-
 
 #endif // __riddle__

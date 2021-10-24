@@ -3,31 +3,32 @@
 
 
 #include <fstream>
-
-
-using namespace std;
+#include "baseLines.h"
 
 
 // proverb structure.
-struct proverb {
-    char fstring[10000], sstring[10000];
+class Proverb : public BaseLines {
+private:
+    char sstring[10000];
+public:
+    // Destructor.
+    virtual ~Proverb();
+
+
+    // Inputting proverb.
+    virtual void In(std::ifstream &ifst);
+
+
+    // Creating proverb.
+    virtual void InRnd();
+
+
+    // Outputting proverb.
+    virtual void Out(std::ofstream &ofst);
+
+
+    // Comparable value of proverb.
+    virtual double getComparable();
 };
-
-
-// Inputting proverb.
-void In(proverb &p, ifstream &ifst);
-
-
-// Creating proverb.
-void InRnd(proverb &p);
-
-
-// Outputting proverb.
-void Out(proverb &p, ofstream &ofst);
-
-
-// Comparable value of proverb.
-double getComparable(proverb &p);
-
 
 #endif // __proverb__

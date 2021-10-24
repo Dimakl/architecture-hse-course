@@ -2,41 +2,47 @@
 #define __container__
 
 
+#include <fstream>
 #include "baseLines.h"
 
 
-// Container structure.
-struct container {
-    enum {
-        max_len = 10000
-    };
+// Container class.
+class Container {
+private:
     int len;
-    baseLines *cont[max_len];
+    int size;
+    BaseLines **cont;
+
+public:
+
+
+    // Container constructor.
+    Container(int s);
+
+
+    // Container destructor.
+    ~Container();
+
+
+    // Cleaning non-used memory.
+    void Clear();
+
+
+    // Thread input into container.
+    void In(std::ifstream &ifst);
+
+
+    // Random input into container.
+    void InRnd();
+
+
+    // Output from container.
+    void Out(std::ofstream &ofst);
+
+
+    // Container sorting.
+    void Sorting();
 };
-
-
-// Container initialization.
-void Init(container &c);
-
-
-// Cleaning non-used memory.
-void Clear(container &c);
-
-
-// Thread input into container.
-void In(container &c, ifstream &ifst);
-
-
-// Random input into container.
-void InRnd(container &c, int size);
-
-
-// Output from container.
-void Out(container &c, ofstream &ofst);
-
-
-// Container sorting.
-void Sorting(container &c);
 
 
 #endif // __container__

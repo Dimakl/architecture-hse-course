@@ -25,6 +25,8 @@ void errMessage2() {
 }
 
 
+const int max_len = 10000;
+
 int main(int argc, char *argv[]) {
     // Wrong number of arguments.
     if (argc != 5) {
@@ -34,13 +36,13 @@ int main(int argc, char *argv[]) {
 
     // Initialization.
     printf("Start\n");
-    container c;
-    Init(c);
+    Container *c = nullptr;
     // File input.
     try {
         if (!strcmp(argv[1], "-f")) {
+            c = new Container(max_len);
             std::ifstream ifst(argv[2]);
-            In(c, ifst);
+            c->In(ifst);
         // Random input.
         } else if (!strcmp(argv[1], "-n")) {
             int size = atoi(argv[2]);
@@ -49,13 +51,14 @@ int main(int argc, char *argv[]) {
                 return 3;
             }
             srand(static_cast<unsigned int>(time(0)));
-            InRnd(c, size);
+            c = new Container(size);
+            c->InRnd();
 
         } else {
             errMessage2();
             return 2;
         }
-    } catch (invalid_argument e) {
+    } catch (std::invalid_argument e) {
         printf(e.what());
         return 3;
     }
@@ -63,16 +66,16 @@ int main(int argc, char *argv[]) {
     // Unsorted container output.
     std::ofstream ofst1(argv[3]);
     ofst1 << "Filled container:\n";
-    Out(c, ofst1);
+    c->Out(ofst1);
 
     // Sorted container output.
     std::ofstream ofst2(argv[4]);
-    Sorting(c);
+    c->Sorting();
     ofst2 << "Sorted container:" << "\n";
-    Out(c, ofst2);
+    c->Out(ofst2);
 
     // End.
-    Clear(c);
+    delete c;
     printf("Stop");
     return 0;
 }

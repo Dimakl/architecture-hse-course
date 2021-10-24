@@ -1,46 +1,47 @@
 #ifndef __baseLines__
 #define __baseLines__
 
-
-#include "aphorism.h"
-#include "proverb.h"
-#include "riddle.h"
+#include <fstream>
 
 // Main structure.
-struct baseLines {
+class BaseLines {
+public:
+    char fstring[10000];
 
-    // Each type of aphorism enumerated.
-    enum key {
-        APHORISM, PROVERB, RIDDLE
-    };
-    key k;
-    union {
-        aphorism a;
-        proverb p;
-        riddle r;
-    };
+    // Destructor.
+    virtual ~BaseLines() {};
+
+
+    // Static input from file.
+    static BaseLines *StaticIn(std::ifstream &ifdt);
+
+
+    // Input from file.
+    virtual void In(std::ifstream &ifdt) = 0;
+
+
+    // Random input.
+    static BaseLines *StaticInRnd();
+
+
+    // Random input.
+    virtual void InRnd() = 0;
+
+
+    // Output into file.
+    virtual void Out(std::ofstream &ofst) = 0;
+
+
+    // Compare value for lines.
+    virtual double getComparable() = 0;
+
+
+    // Get char[] actual length.
+    static int countLength(const char line[]);
+
+
+    // Count punctuation signs in char[].
+    static int countPunct(const char line[]);
 };
-
-// Input from file.
-baseLines *In(ifstream &ifdt);
-
-
-// Random input.
-baseLines *InRnd();
-
-
-// Output into file.
-void Out(baseLines &bm, ofstream &ofst);
-
-
-// Compare value for lines.
-double getComparable(baseLines &bm);
-
-// Get char[] actual length.
-int countLength(const char line[]);
-
-// Count punctuation signs in char[].
-int countPunct(const char line[]);
-
 
 #endif // __baseLines__

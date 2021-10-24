@@ -1,36 +1,42 @@
 #include "proverb.h"
-#include "baseLines.h"
+
+
+// Destructor.
+Proverb::~Proverb() {
+    delete[] &fstring;
+    delete[] &sstring;
+}
 
 
 // Inputting proverb.
-void In(proverb &p, ifstream &ifst) {
-    ifst.getline(p.fstring, 10000);
-    ifst.getline(p.sstring, 10000);
+void Proverb::In(std::ifstream &ifst) {
+    ifst.getline(fstring, 10000);
+    ifst.getline(sstring, 10000);
 }
 
 
 // Creating random proverb.
-void InRnd(proverb &p) {
+void Proverb::InRnd() {
     for (int i = 0; i < rand() % 10000; i++) {
-        p.fstring[i] = '!' + (rand() % ('~' - '!'));
+        fstring[i] = '!' + (rand() % ('~' - '!'));
     }
     for (int i = 0; i < rand() % 10000; i++) {
-        p.sstring[i] = '!' + (rand() % ('~' - '!'));
+        sstring[i] = '!' + (rand() % ('~' - '!'));
     }
 }
 
 
 // Outputting proverb.
-void Out(proverb &p, ofstream &ofst) {
-    ofst << "Proverb:" << endl << p.fstring << endl << p.sstring << endl
-         << "Comparison value: " << getComparable(p) << endl;
+void Proverb::Out(std::ofstream &ofst) {
+    ofst << "Proverb:" << std::endl << fstring << std::endl << sstring << std::endl
+         << "Comparison value: " << getComparable() << std::endl;
 }
 
 
 // Comparable value of proverb.
-double getComparable(proverb &p) {
-    int flen = countLength(p.fstring);
-    int fpunc = countPunct(p.fstring);
+double Proverb::getComparable() {
+    int flen = countLength(fstring);
+    int fpunc = countPunct(fstring);
     if (flen == 0) {
         return 1;
     }

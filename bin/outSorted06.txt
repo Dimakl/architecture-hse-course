@@ -1,42 +1,42 @@
 Sorted container:
 Container contains 10 elements.
-0: Riddle:
-=BiP:.:`^Z{ZHCibuaX[$V]"i2hYfkrLqn#Tx{)+593$:&vh.6H{{klZ2Wh#Owkb:$%G_@&P"L{(`XfQbV#_7hW)HL:=(ueg,FehF+[ViRmLx_(KtM@1UX73*"+tA|_!0${4l9OAyCp'6e3e6zt_lkI6p)0/:5AE&}"rxmb>=S,8<_#=eRLpL]zx"x,jQP;%i&%p#Eq.H?6i72G
-gw0I|cw;#.F^"VJ3FU_I@*KgT:TeK-1`%nU)d:dF|
-Comparison value: 0.371981
-1: Proverb:
-;%}$1tC|b\/Jq%ta7|ppl|e/zDu)mjFKE?Cx^^DxR*QWr&'r]+=vFZN"k7|V$TAoDYg|2o]74ez^#IT*!I3=CHbYXrmzI;zLd{PC:v<M`\&!HS-X^eY'Qd>3/iH4>hH?f;r>ag8+xL8Im:-?Jg>"Kc,Nb]2A6;iO*@T:qi5rtN.=(<^IX0'5$U#H>[XPjh}y$/0m=E)7C]l&%E@c+1j[GFH#*^"<}4v}(SIrAQu_wFA`0h|`>>7e9hf4I>aq]FU|%@[i,"fkDe,Dsnn!]m-!4#)8,-})]&Gy(clx
-i3yz1ne58=QmGp#A;odVuwLC+]O]#T,ed@Q{UzlWu?!jS0.c^T?\<t[$Iv{_p_&e9,iVH.OC<y]sFA):\wge!LK"5GKn6^b^h
-Comparison value: 0.400685
-2: Riddle:
-;%}$1tC|b\/Jq%ta7|ppl|e/zDu)mjFKE?Cx^^DxR*QWr&'r]+=vFZN"k7|V$TAoDYg|2o]74ez^#IT*!I3=CHbYXrmzI;zLd{PC:v<M`\&!HS-X^eY'Qd>3/iH4>hH?f;r>ag8+xL8Im:-?Jg>"Kc,Nb]2A6;iO*@T:qi5rtN.=(<^IX0'5$U#H>[XPjh}y$/0m=E)7C]l&%E@c+1j[GFH#*^"<}4v}(SIrAQu_wFA`0h|`>>7e9hf4I>aq]FU|%@[i,"fkDe,Dsnn!]m-!4#)8,-})]&Gy(clx
-0.o@ywH[euW<@Vd==BXuT-\"%iX?\o-fL1%UjmG"E^`CmBVQph@JPaaD>FHP#<fDoiQ]df#68hi0;`|,#BluBt<
-Comparison value: 0.400685
+0: Aphorism:
+`}y,:JH!Th7mg%8M_sT{N4#<cRgh3|;zyM:mh6n\OF<[.v-;c933T7RFTEI]_Ga:LC1;-Y};k@AW'HIf)ZjC=sa({L76![6Te\5w"ZHAZJ_1L7nElTcjfK|GM2:f:!G_uT3=[/#<M&(j3w>uCPGzqm:rLmt!F:'3i[BcZH,la"1LV(Je3/9`"<aZ2+-L%!NHb.dfYk;ZJ":>s!r0
+^V%}4h:Xp'Cj5[2P0H<ePD1ayB1Z6pXzWD{GxuUX_:{v^Wp9#@QiK=vj!&.fCw+S}qW6_0}{n|mqc|&lw%[fU}e8:DF9n{t/@sQeI,Lqw]2WFW,*gfs&;-F-n,/;8S=599o<EySo8(l$R#)<N,V{iCE"gLTMEpZ^[nmM%CMr3_!yQqX;g@30aT!8,J5)2s{
+Comparison value: 0.346154
+1: Riddle:
+E4%^S.:=!@.Aqa_1\46UOh{g)S}KX(4`0=-OF;x'c0M^qxCm^Zqo@W)q#c571G{e6AHkc0!pil,n%_|kS<5$zY_?MFuRx&Y>QmQndVRDYE_A2|]hj"dVkNGX+#*`)|-lLs)QIuq^m[^03"ro=z-e9OU'hBT')(#6_dA#F]-3M)R}o?|YR^tNPo^<-u6$yrVWWV#dK?xxn.kGUj@Wo+uD0mxO_L{a7f8ZMX76mr{@BD9ZCe]x/\%FT
++ZcL5"0^72ng^8fA<}p]C3-8dPnCNrh4XqW*I@r({d#+#k9V8;MHQeMsm@bH<"x,|pSm=i5f4akn>e;"*}lJ_e=+O@\H'j7jCZQ).&DtQ5cs[[H5X8]ZySbeVeC%(oXaU-R9"+Q%auvoN)'n2U|_S{iF{->5^['4db/F@xwtVPCf]6L8,o?Y&BL/X[c[kR3t`8>"PGp+E',)9Cz3+]f[}fcRm[<
+Comparison value: 0.346939
+2: Aphorism:
+E4%^S.:=!@.Aqa_1\46UOh{g)S}KX(4`0=-OF;x'c0M^qxCm^Zqo@W)q#c571G{e6AHkc0!pil,n%_|kS<5$zY_?MFuRx&Y>QmQndVRDYE_A2|]hj"dVkNGX+#*`)|-lLs)QIuq^m[^03"ro=z-e9OU'hBT')(#6_dA#F]-3M)R}o?|YR^tNPo^<-u6$yrVWWV#dK?xxn.kGUj@Wo+uD0mxO_L{a7f8ZMX76mr{@BD9ZCe]x/\%FT
+kA$ioC}DED"kx1@4@&-sna2c4t;sh(c<LWB<}FkO\U{KflmxTK?r(#P`xS_J&dEw@UrFRoAo*z71cK%{w4+rn7(3J$U1L"W$*-[LtA6,?NtD|0_gO'ez\
+Comparison value: 0.346939
 3: Aphorism:
-u=+}9YCKu/pYc{,_:-$!P]|{MH|Go3c'Ljm'<Vtj2ID)|z>@VN.["-m[e.C,r19&q(',-S57$n@&W"VWtYh&`+icIV}Nu%\\d!nU>
-W'3P}/f[`o)9s_y>9Rb+$:-Is11cNm%I#1f.N`NCGyLY}uT4g%kZ>jreb$b7M#ZdOcOjC?lx<X:my0ma%P)n/5I\.IvP>fZxZ0^pg1kV3_Tp*fN\%|$BOi:F7Z2
-Comparison value: 0.465347
-4: Aphorism:
-u=+}9YCKu/pYc{,_:-$!P]|{MH|Go3c'Ljm'<Vtj2ID)|z>@VN.["-m[e.C,r19&q(',-S57$n@&W"VWtYh&`+icIV}Nu%\\d!nU>
-gyT/".3/H3F[A1Na2s48OQgz,Um}^@,bKE<P!xkU>=xs,Ub;dTM}gmO[('28?*0e%vj{]9D3rY7N}Y|GzI$W,SxE?%9eKjGQ*;CaFHoL8q"tiXK7un|UXLv&%Y]y(fz*OMb/9#A>'%^
-Comparison value: 0.465347
-5: Aphorism:
-u=+}9YCKu/pYc{,_:-$!P]|{MH|Go3c'Ljm'<Vtj2ID)|z>@VN.["-m[e.C,r19&q(',-S57$n@&W"VWtYh&`+icIV}Nu%\\d!nU>
-b9a>;(rJbbglMjgxq\AZY#,0}A1e}h?U]Cc$l{6}#k0KRj8?!TP-w6Xe$|OZYjI.
-Comparison value: 0.465347
-6: Aphorism:
-u=+}9YCKu/pYc{,_:-$!P]|{MH|Go3c'Ljm'<Vtj2ID)|z>@VN.["-m[e.C,r19&q(',-S57$n@&W"VWtYh&`+icIV}Nu%\\d!nU>
-SPfF\it5-PQpn7N?Yw$ebK2m6=J}
-Comparison value: 0.465347
-7: Proverb:
-u=+}9YCKu/pYc{,_:-$!P]|{MH|Go3c'Ljm'<Vtj2ID)|z>@VN.["-m[e.C,r19&q(',-S57$n@&W"VWtYh&`+icIV}Nu%\\d!nU>
-52?;X]]J.q#V[z<JEEjW^#yry%IcF4&rn9S{=/RCOfSm+O$)hqhJ<3X`a^*N?HUfC44zOg4]"Xe3HZHs@3]"80#"*6rIe.j8#/nzuOukTT-xc,?;Z
-Comparison value: 0.465347
-8: Proverb:
-u=+}9YCKu/pYc{,_:-$!P]|{MH|Go3c'Ljm'<Vtj2ID)|z>@VN.["-m[e.C,r19&q(',-S57$n@&W"VWtYh&`+icIV}Nu%\\d!nU>
-IJ3Y20/kdAH*F>4w^tZL!z\nO?D4.mi+*bW*L:+iC{*xs4l0#{.sW^4!8TiQ,nGqAfP_/H55<fhnc%SyE}jm_F_}JQ02iRmL$sq]c*t-oi%{?e3UoWYu6]#i*R"y*I-8N>-G&d4`"YZ?$e's/V)_}:&z(3uVF"xh4sPZXDdl@rp>JJ@xrW$Nc]q.:z1)b{|Gjl0:|&W2{p&v@%NdLV+29pz^_SC5wkWu>8Xo
-Comparison value: 0.465347
+(S6M`hC/p5k`+)-s2i2%FfJ,[yxj<;)-v.+'x8PSpyAW/o`j,WJlsOS7_7.@9Rb)w,mQ0;!yO^Qp9#FB}itoU+>3r9GTH1tiSD?{A1^Pmp+DOd]Y?;s4n{%hS_{$Lp+!&ezbO=|GY[_vCU29Un3iK>(wjAE3[^A*#yy?/rXm@6Y.}q{|rpiUip2T}i9?h--|1N>*S(u059s
+=2>66Lh|?f/+'s:s(<PWIz{\SM8iWe7I{eC>QQTU}nwm\h9g)!l-Z,*q"*>z`etQfGoCJIV^Su.g"x&l36(]:QA,M+aotWJqC2P7mz(wB:UZDNXni;d[RaM"p(#iC0V&DGx[+hT:&Oac5Uso'-X,{naziO?+t1/X(I|qoK.i&S/aA@UBF@\@G-@B&:<c[OT;P?SNqIz:x2r{80BpJ-X\4E&78@c!9pysnu++K'*
+Comparison value: 0.35468
+4: Riddle:
+(S6M`hC/p5k`+)-s2i2%FfJ,[yxj<;)-v.+'x8PSpyAW/o`j,WJlsOS7_7.@9Rb)w,mQ0;!yO^Qp9#FB}itoU+>3r9GTH1tiSD?{A1^Pmp+DOd]Y?;s4n{%hS_{$Lp+!&ezbO=|GY[_vCU29Un3iK>(wjAE3[^A*#yy?/rXm@6Y.}q{|rpiUip2T}i9?h--|1N>*S(u059s
+s0ubyGwIz5+d4\o|.`X4gXIQQxYa=Dt)].@J!wg-87'7w7n+'7rp/m6ghq]y.K|xT1)Hf/eX*lR't:z6#>K0_<VZ*j08jrp"U)(3"%pf-`A)vV3FxGSzEW98b4zS$tKz{e*fm/7%bTSfO#.}P
+Comparison value: 0.35468
+5: Proverb:
+(S6M`hC/p5k`+)-s2i2%FfJ,[yxj<;)-v.+'x8PSpyAW/o`j,WJlsOS7_7.@9Rb)w,mQ0;!yO^Qp9#FB}itoU+>3r9GTH1tiSD?{A1^Pmp+DOd]Y?;s4n{%hS_{$Lp+!&ezbO=|GY[_vCU29Un3iK>(wjAE3[^A*#yy?/rXm@6Y.}q{|rpiUip2T}i9?h--|1N>*S(u059s
+PJEd?vfXR/A}NL63B%c.+$%_Bf[ps`k]mOo]O':zhz>Xj[(F4>"{x]0M,}Rbol_y[>\6]\>j$d`9o27);F#"&E9?+hPD8Y8AxxKH]9Oq3C89-d1QG-&s1QN<AaOHvJ+=Z2Z=3q6LrROidIes<Se^XWuAc_U2etUF
+Comparison value: 0.35468
+6: Proverb:
+(S6M`hC/p5k`+)-s2i2%FfJ,[yxj<;)-v.+'x8PSpyAW/o`j,WJlsOS7_7.@9Rb)w,mQ0;!yO^Qp9#FB}itoU+>3r9GTH1tiSD?{A1^Pmp+DOd]Y?;s4n{%hS_{$Lp+!&ezbO=|GY[_vCU29Un3iK>(wjAE3[^A*#yy?/rXm@6Y.}q{|rpiUip2T}i9?h--|1N>*S(u059s
+85O^]^%9':>rps#*H%<:q6@5qr:i]EU-/CpCJC.;'6x9"bltCW@dDUF;i7;<FJv$\q8y1lQ;e:0K]Z?O]WDR/^p)ZcQ[,d*^CB*sV[5\S\"%@QKvu.>x=VNfnE)KZDNs*Jo)`E2>pQmg29#,.&3\U446&!{
+Comparison value: 0.35468
+7: Riddle:
+(S6M`hC/p5k`+)-s2i2%FfJ,[yxj<;)-v.+'x8PSpyAW/o`j,WJlsOS7_7.@9Rb)w,mQ0;!yO^Qp9#FB}itoU+>3r9GTH1tiSD?{A1^Pmp+DOd]Y?;s4n{%hS_{$Lp+!&ezbO=|GY[_vCU29Un3iK>(wjAE3[^A*#yy?/rXm@6Y.}q{|rpiUip2T}i9?h--|1N>*S(u059s
+yQCr[T}R0C9K`tDL6L*,dVM?%<6%x&hKW,256xh)?N\Ln2B0r1k0)z='C-kU;n%ha#b*n,3;GXc956&ZS'izGMUOvBlVWk`jL{GQ`%Q7AqC/J>!P0"|sB:Nu7m<JB0Ua;)V)!vmU9}ECXp$Vay7P[p}%q+9gbIIIjbqE?C:;Nmq9Bouci%\U$E
+Comparison value: 0.35468
+8: Aphorism:
+WI)<geI/:[1!'=@igH%ucdVoP6(<F
+QT&@&Lh&YqC[i3.I[:c.vL7kr}-,x`*mu')w`uRR|Y#0lY*(l*[LPw]?eWd,Q4T\80e81D!g!
+Comparison value: 0.413793
 9: Riddle:
-u=+}9YCKu/pYc{,_:-$!P]|{MH|Go3c'Ljm'<Vtj2ID)|z>@VN.["-m[e.C,r19&q(',-S57$n@&W"VWtYh&`+icIV}Nu%\\d!nU>
->c<CX|G&JIJA[VnZgM$#evm[RK3s,ee]o=nvL>ph23Na.bRY)b2#mg1deG+zw1i&Aq"w5[@$>x(ZCyGA3jA2uMDpDfjF}6_m<|_7hQZIfcAsQ)^s\yX^\IyO,i}WMyv8>l=0`!SpRAE3z{n1$0XeA9tFLzwZuxIJ<Fy0I:1/rq.;$
-Comparison value: 0.465347
+WI)<geI/:[1!'=@igH%ucdVoP6(<F
+X1(>a1cQjR<eb}"I+<h4%K]0t:Cd`Xj:?4>S2AogU:YJO"r[dDJR}N)7`;Q&ezna$>k)l}$%ru(y=:RQJ6DCbW#a$vj8,5-:'KF_C_K;?$YElYTmD@'L=|vfO&h1Rt%J)mWUyKUy=C5gn;sBxeev(05<Y52x}!#vSWq;6kGp}*i<QQ0*W0v8M}7(gD,*ZI/qGH;pfHUxFVmWpQsl#xq[P?Ov2%Wjk
+Comparison value: 0.413793

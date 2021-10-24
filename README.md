@@ -1,4 +1,4 @@
-# First homework for Architecture.
+# Second homework for Architecture.
 
 ## Variant:
  - ___Artifact 10: Well of wisdom___
@@ -7,12 +7,12 @@
 --------
 
 ### Files:
-- **main.cpp(1,83KB)**: main function which reads, writes and catches exceptions coming from the container...
-- **container.cpp(1,39KB)/.h(644B)**: container with all the functions for containing inputted objects .
-- **baseLines.cpp(2,47KB)/.h(768B)**: basic well of wisdom structure with all the functions.
-- **aphorism.cpp(925B)/.h(478B)**: aphorism structure with all the functions.
-- **proverb.cpp(877B)/.h(432B)**: proverb structure with all the functions.
-- **riddle.cpp(883B)/.h(408KB)**: riddle structure with all the functions.
+- **main.cpp(1,93KB)**: main function which reads, writes and catches exceptions coming from the container...
+- **container.cpp(1,54KB)/.h(669B)**: container with all the functions for containing inputted objects .
+- **baseLines.cpp(1,54KB)/.h(848B)**: basic well of wisdom structure with all the functions.
+- **aphorism.cpp(1,00KB)/.h(567B)**: aphorism structure with all the functions.
+- **proverb.cpp(946B)/.h(523B)**: proverb structure with all the functions.
+- **riddle.cpp(929B)/.h(513B)**: riddle structure with all the functions.
 
 ### Command line input guide:
 
@@ -54,22 +54,21 @@ There are 8 tests stored in tests directory, which could be used to understand i
 
 | Compoment name      | Size (in bytes) |
 | ----------- | ----------- |
-| __struct ridlle__       | __80000__       |
+| __class Riddle__       | __80000__       |
 | char fstring[10000]   | 40000        |
 | char sstring[10000]   | 40000       |
-| __struct aphorism__       | __80000__       |
+| __class Aphorism__       | __80000__       |
 | char fstring[10000]   | 40000        |
 | char sstring[10000]   | 40000       |
-| __struct proverb__       | __80000__       |
+| __class Proverb__       | __80000__       |
 | char fstring[10000]   | 40000        |
 | char sstring[10000]   | 40000       |
-| __struct baseLines__       | __80004__       |
-| enum key   | 4        |
-| union { aphorism a;proverb p;riddle r;}   | 80000       |
-| __struct container__       | __800040008__       |
-| enum {max_len = 10000}  | 4        |
+| __class BaseLines__       | __40000__       |
+| char fstring[10000] | 40000       |
+| __struct Container__       | __800000008__       |
+| int size | 4        |
 | int len   | 4       |
-|baseLines *cont[max_len]| 800040000|
+|baseLines **cont (max len - 10000)| 800040000|
 
 
 #### Modules:

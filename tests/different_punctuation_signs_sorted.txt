@@ -1,0 +1,42 @@
+Filled container:
+Container contains 8 elements.
+Proverb:
+string
+author
+Comparison value:
+0.0
+Aphorism:
+string!
+author
+Comparison value:
+0.14285714285714285
+Proverb:
+string?!
+author
+Comparison value:
+0.25
+Riddle:
+-string!
+author
+Comparison value:
+0.25
+Proverb:
+!string!
+author
+Comparison value:
+0.25
+Aphorism:
+_string_
+author
+Comparison value:
+0.25
+Aphorism:
+??string??
+author
+Comparison value:
+0.4
+Riddle:
+---string---
+author
+Comparison value:
+0.5

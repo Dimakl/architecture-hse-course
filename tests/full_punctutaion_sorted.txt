@@ -1,0 +1,22 @@
+Filled container:
+Container contains 4 elements.
+Proverb:
+te
+test
+Comparison value:
+0.0
+Aphorism:
+test,
+tests
+Comparison value:
+0.2
+Riddle:
+tes,
+test
+Comparison value:
+0.25
+Aphorism:
+,,,,
+test
+Comparison value:
+1.0
